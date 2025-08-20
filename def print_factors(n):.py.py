@@ -8,4 +8,4 @@ if num > 0:
         if num % i == 0:
             print(i)
 else:
-    print("Please enter a positive number!")
+    print(" entepositive number!")
